@@ -1,0 +1,22 @@
+    1  ls
+    2  crontab -e
+    3  mkdir cron15
+    4  ls
+    5  cd cron15
+    6  crontab -e
+    7  ls
+    8  crontab -e
+    9  ls1
+   10  z
+   11  # */15 * * * * 
+   12  */15 * * * * root (apt-get update && apt-get -y -d upgrade) 
+   13  # this is                               xzxcxzxcdxggffff
+   14  q
+   15  history
+   16  ls
+   17  cd ~
+   18  ls
+   19  touch history1.txt
+   20  history >> history1.txt 
+    1  touch history1.txt
+    2  history >> history1.txt
